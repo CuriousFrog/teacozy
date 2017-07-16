@@ -42,6 +42,10 @@ a {
   color: seashell;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 h2,
 h3,
 h4 {
