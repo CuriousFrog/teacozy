@@ -88,6 +88,14 @@ h4 {
   text-align: center;
 }
 
+.scale {
+  transition: all .3s ease-out;
+}
+
+.scale:hover {
+  transform: scale(1.1);
+}
+
 #mission {
   height: 700px;
   width: 1200px;
